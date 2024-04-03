@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Abdul Mateen.</h1>
-<h3 align="center">A computer Science student and a passionate programmer from Gujranwala, Pakistan.</h3>
+<h3 align="center">A Computer Science student and a passionate Programmer from Gujranwala, Pakistan.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **MERN STACK**
