@@ -8,7 +8,7 @@
 
 - 👯 I’m into [Competitive Programming](https://leetcode.com/Abdul_Mateen14/)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-abdulmateen.netlify.app/](https://portfolio-abdulmateen.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://abdulmateen.dev/](https://abdulmateen.dev/)
 
 - 💬 Ask me about **Programming . CS . MERN**
 
