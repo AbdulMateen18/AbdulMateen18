@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **MERN STACK**
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **NextJs**
 
 - 👯 I’m into [Competitive Programming](https://leetcode.com/Abdul_Mateen14/)
 
