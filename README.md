@@ -2,9 +2,9 @@
 <h3 align="center">A Computer Science student and a passionate Programmer from Gujranwala, Pakistan.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **MERN STACK**
+- 🔭 I’m currently working as **Full STACK Engineer**
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **AI Engineering**
 
 - 👯 I’m into [Competitive Programming](https://leetcode.com/Abdul_Mateen14/)
 
