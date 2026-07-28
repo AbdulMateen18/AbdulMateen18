@@ -14,7 +14,7 @@
 
 - 📧 How to reach me **mateenraj18@gmail.com**
 
-- ⚡ Fun fact **I'm into Cricket, Foosball**
+- ⚡ Fun fact **I'm into Chess, Cricket, Foosball**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
