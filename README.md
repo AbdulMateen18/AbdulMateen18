@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as **Full Stack Engineer**
 
-- 🌱 I’m currently learning **AI Engineering**
+- 🌱 I’m currently learning **DevOps & AI Engineering**
 
 - 👯 I’m into [Competitive Programming](https://leetcode.com/Abdul_Mateen14/)
 
